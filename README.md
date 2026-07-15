@@ -24,4 +24,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/lakshay-0423/Leetcode/tree/master/0204-count-primes) |
+## Stack
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/lakshay-0423/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/lakshay-0423/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/lakshay-0423/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/lakshay-0423/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
