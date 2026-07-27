@@ -33,9 +33,10 @@ class Solution {
             int size=q.size();
             for(int i=0;i<size;i++){
                 TreeNode curr=q.poll();
-                if(map.get(curr)!=null && !set.contains(map.get(curr))){
-                    q.add(map.get(curr));
-                    set.add(map.get(curr));
+                TreeNode parent=map.get(curr);
+                if(parent!=null && !set.contains(parent)){
+                    q.add(parent);
+                    set.add(parent);
                 }
                 if(curr.left!=null && !set.contains(curr.left)){
                     q.add(curr.left);
