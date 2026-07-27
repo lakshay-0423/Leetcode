@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/lakshay-0423/Leetcode/tree/master/0075-sort-colors) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/lakshay-0423/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/lakshay-0423/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0189-rotate-array](https://github.com/lakshay-0423/Leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/lakshay-0423/Leetcode/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/lakshay-0423/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/lakshay-0423/Leetcode/tree/master/0643-maximum-average-subarray-i) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/lakshay-0423/Leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/lakshay-0423/Leetcode/tree/master/0204-count-primes) |
 | [2609-distinct-prime-factors-of-product-of-array](https://github.com/lakshay-0423/Leetcode/tree/master/2609-distinct-prime-factors-of-product-of-array) |
 ## Number Theory
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/lakshay-0423/Leetcode/tree/master/0075-sort-colors) |
+| [0189-rotate-array](https://github.com/lakshay-0423/Leetcode/tree/master/0189-rotate-array) |
 ## Sorting
 |  |
 | ------- |
