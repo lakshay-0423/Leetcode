@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/lakshay-0423/Leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/lakshay-0423/Leetcode/tree/master/0204-count-primes) |
 | [2609-distinct-prime-factors-of-product-of-array](https://github.com/lakshay-0423/Leetcode/tree/master/2609-distinct-prime-factors-of-product-of-array) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/lakshay-0423/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Number Theory
 |  |
 | ------- |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/lakshay-0423/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/lakshay-0423/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/lakshay-0423/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/lakshay-0423/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -227,4 +229,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/lakshay-0423/Leetcode/tree/master/0222-count-complete-tree-nodes) |
+## Greedy
+|  |
+| ------- |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/lakshay-0423/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 <!---LeetCode Topics End-->
