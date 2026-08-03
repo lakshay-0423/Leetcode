@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/lakshay-0423/Leetcode/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/lakshay-0423/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/lakshay-0423/Leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/lakshay-0423/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [2609-distinct-prime-factors-of-product-of-array](https://github.com/lakshay-0423/Leetcode/tree/master/2609-distinct-prime-factors-of-product-of-array) |
 ## Hash Table
 |  |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/lakshay-0423/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/lakshay-0423/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/lakshay-0423/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/lakshay-0423/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Tree
 |  |
 | ------- |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0958-check-completeness-of-a-binary-tree](https://github.com/lakshay-0423/Leetcode/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0971-flip-binary-tree-to-match-preorder-traversal](https://github.com/lakshay-0423/Leetcode/tree/master/0971-flip-binary-tree-to-match-preorder-traversal) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/lakshay-0423/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/lakshay-0423/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -161,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0958-check-completeness-of-a-binary-tree](https://github.com/lakshay-0423/Leetcode/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0971-flip-binary-tree-to-match-preorder-traversal](https://github.com/lakshay-0423/Leetcode/tree/master/0971-flip-binary-tree-to-match-preorder-traversal) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/lakshay-0423/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/lakshay-0423/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Two Pointers
 |  |
 | ------- |
@@ -241,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/lakshay-0423/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/lakshay-0423/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/lakshay-0423/Leetcode/tree/master/0938-range-sum-of-bst) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/lakshay-0423/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Design
 |  |
 | ------- |
@@ -263,4 +268,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/lakshay-0423/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/lakshay-0423/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 <!---LeetCode Topics End-->
