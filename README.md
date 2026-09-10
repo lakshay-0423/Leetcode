@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/lakshay-0423/Leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/lakshay-0423/Leetcode/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/lakshay-0423/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0239-sliding-window-maximum](https://github.com/lakshay-0423/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0455-assign-cookies](https://github.com/lakshay-0423/Leetcode/tree/master/0455-assign-cookies) |
 | [0643-maximum-average-subarray-i](https://github.com/lakshay-0423/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0948-sort-an-array](https://github.com/lakshay-0423/Leetcode/tree/master/0948-sort-an-array) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/lakshay-0423/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0239-sliding-window-maximum](https://github.com/lakshay-0423/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0643-maximum-average-subarray-i](https://github.com/lakshay-0423/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/lakshay-0423/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## String
@@ -355,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/lakshay-0423/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0948-sort-an-array](https://github.com/lakshay-0423/Leetcode/tree/master/0948-sort-an-array) |
 ## Merge Sort
 |  |
@@ -372,4 +375,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/lakshay-0423/Leetcode/tree/master/0948-sort-an-array) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/lakshay-0423/Leetcode/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/lakshay-0423/Leetcode/tree/master/0239-sliding-window-maximum) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/lakshay-0423/Leetcode/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
