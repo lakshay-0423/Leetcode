@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/lakshay-0423/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0455-assign-cookies](https://github.com/lakshay-0423/Leetcode/tree/master/0455-assign-cookies) |
 | [0643-maximum-average-subarray-i](https://github.com/lakshay-0423/Leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [0860-lemonade-change](https://github.com/lakshay-0423/Leetcode/tree/master/0860-lemonade-change) |
 | [0948-sort-an-array](https://github.com/lakshay-0423/Leetcode/tree/master/0948-sort-an-array) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/lakshay-0423/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [2609-distinct-prime-factors-of-product-of-array](https://github.com/lakshay-0423/Leetcode/tree/master/2609-distinct-prime-factors-of-product-of-array) |
@@ -303,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/lakshay-0423/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0455-assign-cookies](https://github.com/lakshay-0423/Leetcode/tree/master/0455-assign-cookies) |
+| [0860-lemonade-change](https://github.com/lakshay-0423/Leetcode/tree/master/0860-lemonade-change) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/lakshay-0423/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/lakshay-0423/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Counting
