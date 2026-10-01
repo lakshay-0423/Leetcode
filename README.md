@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/lakshay-0423/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/lakshay-0423/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0455-assign-cookies](https://github.com/lakshay-0423/Leetcode/tree/master/0455-assign-cookies) |
+| [0605-can-place-flowers](https://github.com/lakshay-0423/Leetcode/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/lakshay-0423/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0860-lemonade-change](https://github.com/lakshay-0423/Leetcode/tree/master/0860-lemonade-change) |
 | [0948-sort-an-array](https://github.com/lakshay-0423/Leetcode/tree/master/0948-sort-an-array) |
@@ -304,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/lakshay-0423/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0455-assign-cookies](https://github.com/lakshay-0423/Leetcode/tree/master/0455-assign-cookies) |
+| [0605-can-place-flowers](https://github.com/lakshay-0423/Leetcode/tree/master/0605-can-place-flowers) |
 | [0860-lemonade-change](https://github.com/lakshay-0423/Leetcode/tree/master/0860-lemonade-change) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/lakshay-0423/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/lakshay-0423/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
