@@ -4,7 +4,7 @@ class Solution {
         int max=0;
         for(int i=0;i<n;i++){
             if(i>max) return false;
-            if(max==n-1) return true;
+            if(max>=n-1) return true;
             max=Math.max(max,i+nums[i]);
         }
         return true;
