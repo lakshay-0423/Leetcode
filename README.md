@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/lakshay-0423/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/lakshay-0423/Leetcode/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/lakshay-0423/Leetcode/tree/master/0605-can-place-flowers) |
+| [0621-task-scheduler](https://github.com/lakshay-0423/Leetcode/tree/master/0621-task-scheduler) |
 | [0643-maximum-average-subarray-i](https://github.com/lakshay-0423/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0860-lemonade-change](https://github.com/lakshay-0423/Leetcode/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/lakshay-0423/Leetcode/tree/master/0881-boats-to-save-people) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/lakshay-0423/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/lakshay-0423/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0621-task-scheduler](https://github.com/lakshay-0423/Leetcode/tree/master/0621-task-scheduler) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/lakshay-0423/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/lakshay-0423/Leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/lakshay-0423/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/lakshay-0423/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/lakshay-0423/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/lakshay-0423/Leetcode/tree/master/0455-assign-cookies) |
+| [0621-task-scheduler](https://github.com/lakshay-0423/Leetcode/tree/master/0621-task-scheduler) |
 | [0881-boats-to-save-people](https://github.com/lakshay-0423/Leetcode/tree/master/0881-boats-to-save-people) |
 | [0948-sort-an-array](https://github.com/lakshay-0423/Leetcode/tree/master/0948-sort-an-array) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/lakshay-0423/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -323,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/lakshay-0423/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/lakshay-0423/Leetcode/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/lakshay-0423/Leetcode/tree/master/0605-can-place-flowers) |
+| [0621-task-scheduler](https://github.com/lakshay-0423/Leetcode/tree/master/0621-task-scheduler) |
 | [0860-lemonade-change](https://github.com/lakshay-0423/Leetcode/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/lakshay-0423/Leetcode/tree/master/0881-boats-to-save-people) |
 | [1029-two-city-scheduling](https://github.com/lakshay-0423/Leetcode/tree/master/1029-two-city-scheduling) |
@@ -331,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0621-task-scheduler](https://github.com/lakshay-0423/Leetcode/tree/master/0621-task-scheduler) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/lakshay-0423/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Monotonic Stack
 |  |
@@ -385,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/lakshay-0423/Leetcode/tree/master/0239-sliding-window-maximum) |
+| [0621-task-scheduler](https://github.com/lakshay-0423/Leetcode/tree/master/0621-task-scheduler) |
 | [0948-sort-an-array](https://github.com/lakshay-0423/Leetcode/tree/master/0948-sort-an-array) |
 ## Merge Sort
 |  |
