@@ -1,19 +1,26 @@
+class Pair{
+    int val;
+    int idx;
+    Pair(int val,int idx){
+        this.val=val;
+        this.idx=idx;
+    }
+}
 class Solution {
     public int[] maxSlidingWindow(int[] arr, int k) {
-        Deque<Integer> dq=new ArrayDeque<>();
+        PriorityQueue<Pair> heap=new PriorityQueue<>((a,b)->Integer.compare(b.val,a.val));
         int n=arr.length;
-        int[] res=new int[n-k+1];
+        int[] result=new int[n-k+1];
         for(int i=0;i<k;i++){
-            while(!dq.isEmpty() && arr[i]>=arr[dq.peekLast()]) dq.pollLast();
-            dq.addLast(i);
+            heap.add(new Pair(arr[i],i));
         }
+        result[0]=heap.peek().val;
+        int j=1;
         for(int i=k;i<n;i++){
-            res[i-k]=arr[dq.peekFirst()];
-            while(!dq.isEmpty() && i-k>=dq.peekFirst()) dq.pollFirst();
-            while(!dq.isEmpty() && arr[i]>=arr[dq.peekLast()]) dq.pollLast();
-            dq.addLast(i);
+            heap.add(new Pair(arr[i],i));
+            while(!heap.isEmpty() && heap.peek().idx<i-k+1) heap.poll();
+            result[j++]=heap.peek().val;
         }
-        res[n-k] = arr[dq.peekFirst()];
-        return res;
+        return result;
     }
 }
